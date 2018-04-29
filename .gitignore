@@ -1,0 +1,6 @@
+Sentence-Embedding/dataset/GloVe
+Sentence-Embedding/dataset/MultiNLI
+Sentence-Embedding/dataset/AllNLI
+Transfer-Tasks/data/glove
+Transfer-Tasks/data/senteval_data
+Smooth-Inverse-Frequency/data/enwiki_vocab_min200.txt

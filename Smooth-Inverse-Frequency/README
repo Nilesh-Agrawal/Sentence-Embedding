@@ -1,0 +1,9 @@
+Run the Script run_me_just_onetime.sh just once for he first time
+This would create the glove pickles once and later use them
+Pleae make sure that all of our datasets are the same for consistence reasons
+
+From then on there is an example.py which w can use for fetching the sentence embeddings which is pretty straightforward
+
+For now use only SNLI datasets.
+
+Ignore the Main Folder as it does all the backend work only.
